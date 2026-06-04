@@ -1,2 +1,3 @@
 # Erin-Brandt
-This app was created as a one-stop-shop for the marketing industry. 
+This app was created as a one-stop-shop for the marketing industry. This application can be used for the marketing department within an organisation or freelance digital marketers. 
+This easy to navigate application includes a note generator, a schedule and planner to plan promotional releaeses as well as track deadlines for the release, as well as a tab to create easy promotional content with templates that can easily be edited to fit the brands identity. Additionally there is an AI research assistant that analyses current trends as well as keeping track of competitors in the industry. Client confidentially is also maintained as no client information is needed to be entered into the database. 
